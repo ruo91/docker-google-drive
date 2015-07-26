@@ -6,10 +6,7 @@
 #
 # - Run
 # docker run -d --name="google-drive" -h "google-drive" -v /google-drive:/google-drive google:drive
-#
-# - SSH
-# ssh `docker inspect -f '{{ .NetworkSettings.IPAddress }}' google-drive`
-#
+
 # Use the base images
 FROM ubuntu:15.04
 MAINTAINER Yongbok Kim <ruo91@yongbok.net>
