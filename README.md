@@ -3,12 +3,12 @@
 Google API console to visit.
 https://code.google.com/apis/console
 
-### 2. Click the Create Project button.
+### 2. "Create Project" button.
 ![google api console 0][0]
 
 OR
 
-### 3. click on the "API Project" -> "Create a project".
+### 3. "API Project" -> "Create a project".
 ![google api console 1][1]
 
 ### 4. Write on Project name.
